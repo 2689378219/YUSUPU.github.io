@@ -1,6 +1,6 @@
 
 ---
-title: "About Me | MS Student in Computer Science"  
+title: "About Me "  
 author_profile: true  
 redirect_from: 
   - /about/
