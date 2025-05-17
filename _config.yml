@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yusupu Ainiwaer / Site Title"
+title                    : "Yusupu Ainiwaer / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Yusupu Ainiwaer"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Wurumqi, China"
-  employer         : "Red Brick University"
+  location         : "Urumqi, China"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yusupuedu@gmail.com" 
 
   # Academic websites
   academia         : # URL
