@@ -19,7 +19,51 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 -  Large language model (LLM) integration in time series modeling  
 - Spatio-temporal data analytics and deep learning optimization    
 
+### 🔥 News  
+
+<!--
+- 2025.05: 🎉 One paper accepted by .  
+
+- 2024.XX: 📝 Paper 
+- 2024.XX: ✅ Paper 
+
+-->
+
 ---
+
+### 📖 Educations  
+- 2020.09 – 2023.06  
+  Master in Software Engineering  
+  School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications  
+- 2018.09 – 2022.06  
+  Bachelor in Information Engineering  
+  School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China  
+---
+
+### 💼 Work Experiences  
+- 2022.07 – 2024.06  
+  Product Manager  
+  Xinjiang Mobile Kashgar Branch  
+  - Led product planning and strategy formulation, analyzing market demands and user needs to define product features.  
+  - Coordinated with R & D, design, and operation teams to ensure smooth product development and launch.
+
+---
+
+
+
+
+### 🎖 Honors and Awards  
+
+
+---
+
+### ⏳ Professional Services  
+- **PC Member & Reviewer**  
+
+- **Journal Invited Reviewer**  
+
+---
+
 
 ## Latest Updates
 {{% include "posts.html" %}}
@@ -33,6 +77,7 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 📄 ORCID: [ORCID](https://orcid.org/0009-0008-9134-260X)
 
 ---
+
 
 ## Quick Navigation
 - [Publications](https://yusupuedu.github.io/publications)  
