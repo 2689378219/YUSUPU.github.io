@@ -1,9 +1,14 @@
+
+---
 title: "About Me | MS Student in Computer Science"  
 author_profile: true  
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+
 
 I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Computer Science and Technology, Xinjiang University. My research focuses on **time series analysis**, focusing on developing advanced forecasting, analysis, and modeling techniques with a particular emphasis on integrating **large language models (LLMs)** for enhanced data understanding. 
 
