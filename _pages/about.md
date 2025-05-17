@@ -17,9 +17,11 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 ## Research Interests
 - Time Series Forecasting
 -  Large language model (LLM) integration in time series modeling  
-- Spatio-temporal data analytics and deep learning optimization    
+- Spatio-temporal data analytics and deep learning optimization
 
-### 🔥 News  
+  
+---
+## 🔥 News  
 
 <!--
 - 2025.05: 🎉 One paper accepted by .  
@@ -28,6 +30,7 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 - 2024.XX: ✅ Paper 
 
 -->
+---
 
 ---
 
