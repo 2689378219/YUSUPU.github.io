@@ -37,15 +37,16 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
   School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications  
 - 2018.09 – 2022.06  
   Bachelor in Information Engineering  
-  School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China  
----
+  School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China
+
+  
+  ---
 
 ### 💼 Work Experiences  
-- 2022.07 – 2024.06  
-  Product Manager  
+Product Manager | Xinjiang Mobile Kashgar Branch
   Xinjiang Mobile Kashgar Branch  
-  - Led product planning and strategy formulation, analyzing market demands and user needs to define product features.  
-  - Coordinated with R & D, design, and operation teams to ensure smooth product development and launch.
+  - product planning & strategy formulation &  market demand analysis .  
+
 
 ---
 
