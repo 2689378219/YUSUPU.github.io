@@ -35,6 +35,4 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 ---
 
 ## Quick Navigation
-- [Publications](https://yusupu.github.io/publications)
-- [Projects](https://yusupu.github.io/portfolio)
-- [Blog](https://yusupu.github.io/blog)
+- [Publications](https://yusupuedu.github.io/publications)  # 改为 yusupuedu
