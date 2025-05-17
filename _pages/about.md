@@ -29,7 +29,7 @@ I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Compu
 ## Contact
 📧 Email: yusupuedu@gmail.com  
 📍 Address: Xinjiang University, Urumqi, China   
-🌐 GitHub: https://github.com/YusupuEDU   
+🌐 GitHub: https://github.com/Yusupuedu  
 📄 ORCID: [ORCID](https://orcid.org/0009-0008-9134-260X)
 
 ---
