@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "Yusupu Ainiwaer | Time Series Analysis Researcher"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my personal website!  
-I am **Yusupu Ainiwaer**, a Master's student at the College of Computer Science and Technology, Xinjiang University. My research focuses on **time series analysis**, including algorithm design, data modeling, and the application of machine learning in time series.
+I am **Yusupu Ainiwaer**, an MS student (2024–present) at the College of Computer Science and Technology, Xinjiang University. My research focuses on **time series analysis**, focusing on developing advanced forecasting, analysis, and modeling techniques with a particular emphasis on integrating **large language models (LLMs)** for enhanced data understanding. 
 
 ---
 
 ## Research Interests
-- Time Series Forecasting  
-- Deep Learning Model Optimization  
-- Data-Driven Decision Support Systems  
+- Time Series Forecasting
+-  Large language model (LLM) integration in time series modeling  
+- Spatio-temporal data analytics and deep learning optimization    
 
 ---
 
@@ -25,10 +24,10 @@ I am **Yusupu Ainiwaer**, a Master's student at the College of Computer Science 
 ---
 
 ## Contact
-📧 Email: yusupu.ainiwai@xju.edu.cn  
-📍 Address: College of Computer Science and Technology, Xinjiang University  
-🌐 GitHub: [github.com/YusupuAiniwaer](https://github.com/YusupuAiniwaer)  
-📄 ORCID: [ORCID](https://orcid.org/0000-0000-0000-0000)
+📧 Email: yusupuedu@gmail.com  
+📍 Address: Xinjiang University, Urumqi, China
+🌐 GitHub:[[ [github.com/YusupuAiniwaer](https://github.com/YusupuAiniwaer) ](https://github.com/2689378219) ](https://github.com/2689378219)
+📄 ORCID: [ORCID](https://orcid.org/0009-0008-9134-260X)
 
 ---
 
